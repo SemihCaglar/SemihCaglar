@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Semih Çağlar, a freshman at Bilkent University.
+## Interests & Goals
+- 💻 Competitive programming
+- 🤖 Machine learning and AI
+- 🎓 Developing problem-solving skills and contributing to open-source projects
